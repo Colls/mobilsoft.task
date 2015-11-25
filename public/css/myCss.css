@@ -1,0 +1,17 @@
+.main-container > div
+{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin: 10px auto;
+    padding: 10px;
+}
+.summary, th
+{
+    font-weight: bold;
+    background: lightyellow;
+}
+
+#choose > div
+{
+    padding: 10px;
+}
